@@ -1,2 +1,4 @@
 # Github_drill
-Practising Github
+
+This repo is for the introduction to github with google.
+I'll practise the exercise and examples here
